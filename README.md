@@ -2,7 +2,7 @@
 
 
  # Lien vers le projet :
- https://magaligarot.github.io/Animated-Button/
+https://magaligarot.github.io/Folder-Animate/
 
 ![<Visuel>](capture-folder.png)
 
@@ -11,7 +11,7 @@
 Réalisation d'une animation d'après un wireframe existant réalisé par [Shunya Koide](https://dribbble.com/shunyakoide). Le but étant de reproduire au maximum le concept, tout en essayant de trouver les ressources externes sur le web. 
 
 # Documentation :
-[Vidéo](https://www.youtube.com/watch?v=p8HBw7m0_J4).
+[Vidéo](https://www.youtube.com/watch?v=p8HBw7m0_J4)
 
 ## Liens vers l'exercice
 [Becode](https://github.com/becodeorg/LIE-Hamilton-4.25/blob/master/01-main-course/02-the-hills/03-dribbble-challenges.md)
